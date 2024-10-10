@@ -9,3 +9,5 @@ Equally, a considerable part of the project is also the data visualizations to a
 to a whole new level of access and understanding with the single pane of glass approach Splunk expertly designs.
 
 Included in this respository are the review questions we were required to answer along with the data vizualizations we created from the data. 
+
+![191784964-1e960857-c945-43dd-ab7d-1eb550b6cb25](https://github.com/user-attachments/assets/48ab3eab-e5bf-45e6-9790-312e9692e4d5)
